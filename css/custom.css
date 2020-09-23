@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bold;
+}
+#total-price {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.item {
+    margin-top: 3px;
+}
+
+.new-item {
+    margin-top: 20px;
+}
+
